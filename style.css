@@ -1,0 +1,80 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+
+
+.seccion1{
+    background-image: url(./assets/bosque-encantado-3.jpg);
+height: 1000px;
+background-size: cover;
+}
+
+.tipografia-1{
+font-family: cinzel; 
+color: #D8C68D;   
+}
+.divCarrouselCitas{
+    height: 700px;
+    background-color:#74604271;
+}
+
+.divCitas{
+   margin-right: 8px;
+}
+
+.bg-titulo2{
+    background-color:#93925D;
+}
+
+.seccion-2{
+   background-image: url(./assets/bosque-encantado-2.jpg);
+   height: 1000px;
+   background-size: cover;
+}
+
+.divRecomendaciones{
+    background-color:#93925D71;
+    row-gap:50px;
+    column-gap: 50px;
+}
+
+.pergamino{
+    width: 15rem;
+    height: 20rem;
+    background-size: cover;
+    background-position: center;
+    border: solid black;
+    background-image: url(./assets/pergamino\ 1.jpg);
+}
+
+.tipografia-2{
+    font-family: cinzel;
+    color: black;
+}
+
+.librosRecomended{
+    width: 5rem;
+}
+
+.bg-titulo3{
+    background-color:#271D12;
+}
+
+.seccion-3{
+    background-image:url(./assets/seccion\ 3.png) ;
+    height: 1000px;
+    background-size: cover;
+}
+.img-personajes{
+    width:450px;
+}
+
+.divCarouselPersonajes{
+    height: 700px;
+    background-color: #271d12be;
+    padding: 100px 50px;
+}
+
+.footer{
+    background-color: #010326;
+    height:200px;
+}
